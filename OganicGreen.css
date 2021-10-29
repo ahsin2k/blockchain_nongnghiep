@@ -1,0 +1,540 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+/* body{
+	margin: auto;
+	width: 1580px;
+	height: 4900px;
+	background-color: white;} */
+	header{
+		margin: 0 auto;
+		padding: 0;
+		width: 1500px;
+	height: 4900px;
+	background-color: white;
+	position: relative;
+	}
+
+
+.khungLogin{
+	margin: 0 auto;
+	width: 100%;
+	height: 50px;
+	background-color: #558b2f;}
+
+.khungMenu{
+	margin-left: 50px;
+	position: relative;
+	margin: 0 auto;
+	width: 100%;
+	height: 100px;
+	background-color: #7cb342;}
+
+.DN_DK_Mua1 a{
+	color: white;
+	font-size: 18px;
+	font-family: calibri light;
+	text-decoration: none;
+	margin: 0px 0px 50px 1200px;}
+
+.DN_DK_Mua2 a{
+	color: white;
+	font-size: 18px;
+	padding: 15px;
+	text-decoration: none;
+	font-family: calibri light;}
+
+.DN_DK_Mua1 a:hover{
+	color: black;
+	font-size: 19px;
+	font-weight: bold;
+	font-family: calibri light;
+	text-decoration: none;
+	margin: 0px 0px 50px 1200px;}
+
+.DN_DK_Mua2 a:hover{
+	color: black;
+	font-weight: bold;
+	font-size: 19px;
+	font-family: calibri light;}
+
+
+.menu1 a{
+	color: white;
+	font-size: 22px;
+	font-family: calibri;
+	text-decoration: none;
+	padding: 0px 20px 0px 400px;}
+
+.menu2 a{
+	color: white;
+	font-size: 22px;
+	padding: 20px;
+	text-decoration: none;
+	font-family: calibri;}	
+
+.menu1 a:hover{
+	color: black;
+	font-weight: bold;
+	font-size: 25px;
+	font-family: calibri;
+transition:1;}
+
+.menu2 a:hover{
+	color: black;
+	font-weight: bold;
+	font-size: 25px;
+	font-family: calibri;
+transition:1;}	
+
+
+
+.Oganic{
+	color: white;
+	font-size: 40px;
+	font-weight: bold;
+	font-family: calibri;}
+
+.Green{
+	padding: 0px 0px 0px 150px;
+	color: black;
+	font-size: 40px;
+	font-weight: bold;
+	font-family: calibri light;}
+
+#slider{
+	width: 100%;
+	height: 650px;
+	background-size: 100% 100%;}
+.slide-item{
+	width: 100%;
+	height: 650px;}
+#next2{
+	text-transform: uppercase;
+	top: 400px;
+	left: 1500px;
+	position: absolute;}
+#next1{
+	text-transform: uppercase;
+	top: 400px;
+	left: 20px;
+	position: absolute;}
+
+
+
+.cl1 a{
+	font-size: 22px;
+	font-family: calibri ;
+	font-weight: bold;
+	color: white;
+	text-decoration: none;
+	position: absolute;
+	top: 25px;
+	left: 160px;}
+
+.cl1a{
+	font-size: 18px;
+	font-family: calibri;
+	color: white;
+	position: absolute;
+	top: 50px;
+	left: 160px;}
+
+
+
+.cl2 a{
+	font-size: 22px;
+	font-family: calibri ;
+	font-weight: bold;
+	text-decoration: none;
+	color: white;
+	position: absolute;
+	top: 25px;
+	left: 530px;}
+
+.cl2a{
+	font-size: 18px;
+	font-family: calibri;
+	color: white;
+	position: absolute;
+	top: 50px;
+	left: 530px;}
+
+.cl3 a{
+	font-size: 22px;
+	font-family: calibri ;
+	font-weight: bold;
+	text-decoration: none;
+	color: white;
+	position: absolute;
+	top: 25px;
+	left: 880px;}
+
+.cl3a{
+	font-size: 18px;
+	font-family: calibri;
+	color: white;
+	position: absolute;
+	top: 50px;
+	left: 880px;}
+
+.cl4 a{
+	font-size: 22px;
+	font-family: calibri ;
+	font-weight: bold;
+	text-decoration: none;
+	color: white;
+	position: absolute;
+	top: 20px;
+	left: 1230px;}
+
+.cl4a{
+	font-size: 18px;
+	font-family: calibri;
+	color: white;
+	position: absolute;
+	top: 50px;
+	left: 1230px;}
+
+.truck1{
+	position: absolute;
+	top: 20px;
+	left: 90px;}
+
+.truck2{
+	position: absolute;
+	top: 20px;
+	left: 470px;}
+
+.truck3{
+	position: absolute;
+	top: 20px;
+	left: 820px;}
+
+.truck4{
+	position: absolute;
+	top: 20px;
+	left: 1170px;}
+
+.tr1{
+	position: absolute;
+	top: 930px;
+	left: 7px;
+	box-shadow: 5px 5px 5px gray;
+	border-radius: 10px;}
+
+.tr2{
+	position: absolute;
+	top: 930px;
+	left: 410px;
+	box-shadow: 5px 5px 5px gray;
+	border-radius: 10px;}
+
+.tr3{
+	position: absolute;
+	top: 1162px;
+	left: 410px;
+	box-shadow: 5px 5px 5px gray;
+	border-radius: 10px;}
+
+.tr4{
+	position: absolute;
+	top: 930px;
+	left: 760px;
+	box-shadow: 5px 5px 5px gray;
+	border-radius: 10px;}
+
+.tr5{
+	position: absolute;
+	top: 1162px;
+	left: 760px;
+	box-shadow: 5px 5px 5px gray;
+	border-radius: 10px;}
+
+.tr6{
+	position: absolute;
+	top: 930px;
+	left: 1110px;
+	box-shadow: 5px 5px 5px gray;
+	border-radius: 10px;}
+
+.tr7{
+	position: absolute;
+	top: 2000px;
+	left: 0px;
+	margin: 0 auto;
+	width: 1500px;
+	height: 650px;}
+
+.tr8{
+	position: absolute;
+	top: 2800px;
+	left: 200px;
+	box-shadow: 5px 5px 5px gray;
+	border-radius: 10px;}
+
+.tr9{
+	position: absolute;
+	top: 3110px;
+	left: 200px;
+	box-shadow: 5px 5px 5px gray;
+	border-radius: 10px;}
+
+.tr10{
+	position: absolute;
+	top: 2800px;
+	left: 800px;
+	margin: 0 auto;
+	box-shadow: 5px 5px 5px gray;
+	border-radius: 10px;}
+
+.tr10{
+	position: absolute;
+	top: 2800px;
+	left: 800px;
+	margin: 0 auto;
+	box-shadow: 5px 5px 5px gray;
+	border-radius: 10px;}
+
+.tr11{
+	position: absolute;
+	top: 3500px;
+	left: 0px;
+	margin: 0 auto;
+	width: 1500px;
+	height: 650px;
+	background-size: 100% 100%;}
+
+.qrhinh{
+	position: absolute;
+	top: 1500px;
+	left: 60px;
+	margin: 0 auto;
+	box-shadow: 5px 5px 5px gray;
+	border-radius: 10px;}
+
+.menublack{
+	width: 1500px;
+	height: 650px;
+	background-color: #141416;
+	position: absolute;
+	top: 4150px;
+	left: 0px;}
+
+.tieudecuoi{
+	width: 1580px;
+	height: 100px;
+	background-color: white;
+	position: absolute;
+	top: 4800px;
+	text-align: center;
+}	
+
+.Oganic1{
+	color: #7cb342;
+	font-size: 40px;
+	font-weight: bold;
+	font-family: calibri;}
+
+.Green1{
+	color: black;
+	font-size: 40px;
+	font-weight: bold;
+	font-family: calibri light;}
+
+.mnbl1{
+	font-size: 20px;
+	font-family: calibri;
+	color: white;
+	padding-top: 100px;
+	padding-left: 250px;}	
+
+.mnbl2{
+	font-size: 20px;
+	font-family: calibri;
+	color: white;
+	text-decoration: none;
+	line-height: 1.7;
+	position: absolute;	
+	top: 100px;
+	left: 800px;}
+
+#mnbl11{
+	font-size: 35px;
+	font-family: calibri light;
+	font-weight: bold;
+	color: white;
+	text-decoration: none;
+	line-height: 1.7;}	
+
+#mnbl22{
+	font-size: 35px;
+	font-family: calibri light;
+	font-weight: bold;
+	color: white;
+	text-decoration: none;
+	line-height: 1.7;}
+#mnbl33{
+	font-size: 35px;
+	font-family: calibri light;
+	font-weight: bold;
+	color: white;
+	text-decoration: none;
+	line-height: 1.7;}
+
+.mnbl2 span a{
+	text-decoration: none;
+	color: white;}
+
+.mnbl3{
+	font-size: 20px;
+	font-family: calibri;
+	color: white;
+	text-decoration: none;
+	line-height: 1.7;
+	position: absolute;	
+	top: 100px;
+	left: 1150px;}
+
+.mnbl3 a{
+	text-decoration: none;
+	color: white;}
+
+
+.z1{
+	width: 40px;
+	height: 40px;
+	position: absolute;
+	top: 500px;
+	left: 700px;
+	background-size: 100% 100%;}
+
+.z2{
+	width: 40px;
+	height: 40px;
+	position: absolute;
+	top: 500px;
+	left: 750px;
+	background-size: 100% 100%;}
+
+.z3{
+	width: 40px;
+	height: 40px;
+	position: absolute;
+	top: 500px;
+	left: 800px;
+	background-size: 100% 100%;}
+
+.z4{	
+	width: 40px;
+	height: 40px;
+	position: absolute;
+	top: 500px;
+	left: 850px;
+	background-size: 100% 100%;}
+
+
+
+
+#qr11{
+	font-size: 25px;
+	font-family: calibri ;
+	position: absolute;	
+	font-weight: bold;
+	color: #7cb342;
+	line-height: 1.5;}
+.qr1{
+	font-size: 18px;
+	font-family: calibri ;
+	color: black;
+	padding-top: 550px;
+	padding-left: 360px;}
+.qr1 span a{
+	text-decoration: none;
+	color: black;}	
+.qr{
+	font-size: 18px;
+	font-family: calibri ;
+	color: black;
+	line-height: 1.5;
+	position: absolute;	
+	top: 1450px;
+	left: 360px;}
+.qr span a{
+	text-decoration: none;
+	color: black;}	
+
+#qr22{
+	font-size: 25px;
+	font-family: calibri ;
+	font-weight: bold;
+	color: #7cb342;
+	line-height: 1.5;}
+.qr2{
+	font-size: 18px;
+	font-family: calibri ;
+	color: black;
+	line-height: 1.5;
+	position: absolute;	
+	top: 1450px;
+	left: 610px;}
+.qr2 span a{
+	text-decoration: none;
+	color: black;}
+
+#qr33{
+	font-size: 25px;
+	font-family: calibri ;
+	font-weight: bold;
+	color: #7cb342;
+	line-height: 1.5;}
+.qr3{
+	font-size: 18px;
+	font-family: calibri ;
+	color: black;
+	line-height: 1.5;
+	position: absolute;	
+	top: 1700px;
+	left: 360px;}
+.qr3 a{
+	text-decoration: none;
+	color: black;}
+
+#qr44{
+	font-size: 25px;
+	font-family: calibri;
+	font-weight: bold;
+	color: #7cb342;
+	line-height: 1.5;}
+.qr4{
+	font-size: 18px;
+	font-family: calibri;
+	color: black;
+	line-height: 1.5;
+	position: absolute;	
+	top: 1700px;
+	left: 610px;}
+.qr4 a{
+	text-decoration: none;
+	color: black;}
+
+#qr55{
+	font-size: 25px;
+	font-family: calibri;
+	font-weight: bold;
+	color: #7cb342;
+	line-height: 1.5;}
+.qr5{
+	font-size: 18px;
+	font-family: calibri;
+	color: black;
+	line-height: 1.5;
+	position: absolute;	
+	width: 43%;
+	top: 1450px;
+	left: 850px;}
+.qr5 a{
+	text-decoration: none;
+	color: black;}
